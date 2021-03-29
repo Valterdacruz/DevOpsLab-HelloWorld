@@ -21,5 +21,5 @@ deploy:
   provider: heroku
   api-key: 
     secure: $Heroku_API_Key
-  app: DevOpsLab-HelloWorld
+  app: deveopslabs-valter
 
